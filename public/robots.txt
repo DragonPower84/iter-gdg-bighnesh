@@ -1,0 +1,16 @@
+# Tekno Krafft 2026 Production Robots Directives
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /draft/
+
+# LLM Crawlers
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://teknokrafft2026.org/sitemap.xml

@@ -1,0 +1,11 @@
+# Antigravity Persistent Directive
+
+BEFORE GENERATING ANY PLAN, CODE, OR ASSET MODIFICATION:
+1. Read `PROJECT_RULES.md` located in the project root.
+2. Validate the proposed output against:
+   - Zero-Vibe UI Constraints: No purple gradients, no pill buttons, no emoji icons, no em dashes, no AI-slop images or text, no fake metrics/counters.
+   - Smooth native scroll animation only; no scroll-jacking or cursor animations.
+   - SEO & Architecture: Unique titles, single <h1>, canonicals, schema markup, breadcrumbs, sitemap.xml, robots.txt, llms.txt.
+   - Launch Gates: Custom domain verification, favicon, custom 404, /privacy, /terms, zero console errors, no production source maps, no framework placeholder names.
+3. If an action violates any constraint in `PROJECT_RULES.md`, immediately halt, correct the violation, and proceed cleanly.
+4. Execute with precision. Make no mistakes.

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#08090D"/>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#181E2E" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)" />
+  
+  <rect x="80" y="80" width="1040" height="470" rx="10" fill="#10131D" stroke="#28314B" stroke-width="2"/>
+  
+  <!-- Accent Badge -->
+  <rect x="130" y="130" width="220" height="36" rx="6" fill="#141824" stroke="#4DEBFF" stroke-width="1.5"/>
+  <circle cx="150" cy="148" r="5" fill="#C8FF54"/>
+  <text x="165" y="153" fill="#4DEBFF" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="600" letter-spacing="1.5">OCTOBER 24-25, 2026</text>
+  
+  <!-- Headline -->
+  <text x="130" y="240" fill="#F4F5FA" font-family="'Space Grotesk', sans-serif" font-size="64" font-weight="800" letter-spacing="-1">THE FUTURE</text>
+  <text x="130" y="310" fill="#F4F5FA" font-family="'Space Grotesk', sans-serif" font-size="64" font-weight="800" letter-spacing="-1">IS NOT WAITING.</text>
+  
+  <!-- Subtitle -->
+  <text x="130" y="380" fill="#4DEBFF" font-family="'Space Grotesk', sans-serif" font-size="28" font-weight="700" letter-spacing="2">TEKNO KRAFFT 2026</text>
+  <text x="130" y="420" fill="#9298AA" font-family="Inter, sans-serif" font-size="18">Two days. Infinite possibilities. One convergence of technology, innovation, and minds.</text>
+  
+  <!-- Graphic Motif -->
+  <g transform="translate(850, 260)">
+    <polygon points="0,-120 104,-60 104,60 0,120 -104,60 -104,-60" fill="none" stroke="#4DEBFF" stroke-width="3"/>
+    <polygon points="0,-80 70,-40 70,40 0,80 -70,40 -70,-40" fill="#141824" stroke="#526BFF" stroke-width="2"/>
+    <circle cx="0" cy="0" r="14" fill="#C8FF54"/>
+  </g>
+</svg>

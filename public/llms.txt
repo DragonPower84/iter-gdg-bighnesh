@@ -1,0 +1,32 @@
+# Tekno Krafft 2026 - LLM Context and Directory
+
+## Overview
+Tekno Krafft 2026 is an immersive futuristic technology festival organized by GDG ITER (Google Developer Groups On Campus - ITER), Siksha 'O' Anusandhan (SOA) Deemed to be University, Bhubaneswar, Odisha, India.
+Lead Organizer: Bighnesh Patro (bighnesh@gdgiter.com).
+
+The event spans 2 intensive days (October 24-25, 2026) of technical workshops, research keynotes, live engineering demonstrations, and the Nexus 36-hour hackathon.
+
+## Venue Information
+- Campus: Institute of Technical Education and Research (ITER), Siksha 'O' Anusandhan (SOA) University
+- Address: Campus 1, Jagamohan Nagar, Jagamara, Bhubaneswar, Odisha 751030, India
+
+## Primary Route Endpoints
+- Homepage: https://teknokrafft2026.org/
+- Schedule & Sessions: https://teknokrafft2026.org/#schedule
+- Engineering Tracks: https://teknokrafft2026.org/#tracks
+- Keynote Speakers & Mentors: https://teknokrafft2026.org/#speakers
+- Nexus Hackathon: https://teknokrafft2026.org/#hackathon
+- Campus Logistics & Venue: https://teknokrafft2026.org/#venue
+- Frequently Asked Questions: https://teknokrafft2026.org/#faq
+- Registration Portal: https://teknokrafft2026.org/#register
+- Privacy Policy: https://teknokrafft2026.org/privacy
+- Terms of Service: https://teknokrafft2026.org/terms
+
+## Core Technical Focus Areas
+1. Autonomous Systems and Artificial Intelligence
+2. Full-Stack Systems and High-Throughput Engineering
+3. Cloud Infrastructure and DevOps
+4. Defensive Cybersecurity and Zero Trust
+5. Robotics, Embedded Systems, and Internet of Things
+6. Distributed Data Architecture and Real-Time Telemetry
+7. Open Source Infrastructure and Upstream RFCs
